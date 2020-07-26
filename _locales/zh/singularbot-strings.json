@@ -1,4 +1,5 @@
 {
+	"singularbot|block": "奇點機器人",
 	"singularbot.singularbotInit|block": "初始化Singularbot",
 	"singularbot.setServo|block": "設置舵機|編號 %index|角度 %angle|執行時間 %duration",
 	"singularbot.setBusServo|block": "設置匯流排舵機|編號 %index|角度 %angle|執行時間 %duration",
