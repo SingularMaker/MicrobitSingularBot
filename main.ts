@@ -1,7 +1,7 @@
 /*
  singularbot package
 */
- //% weight=10 icon="\uf013" color=#2896ff block="SingularBot"
+ //% weight=10 icon="\uf013" color=#2896ff block="singularbot"
  namespace singularbot {
     export enum Servos {
 		S1 = 0x01,
