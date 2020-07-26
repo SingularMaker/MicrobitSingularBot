@@ -1,5 +1,5 @@
 {
-	"singularbot|block": "奇點程式機器人",
+	"singularbot":"奇點程式機器人",
 	"singularbot.singularbotInit":"Singularbot板初始化，請在開機時執行",
 	"singularbot.setServo":"設置1到8號舵機角度，角度範圍0~180",
 	"singularbot.setBusServo":"設置1到8號匯流排舵機角度，角度範圍0~240",
